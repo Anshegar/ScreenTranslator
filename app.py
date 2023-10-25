@@ -87,5 +87,7 @@ if __name__ == "__main__":
 
     Whish me good luck!
 
+    Долбаные коммиты!!!!
+
 '''
 
